@@ -58,11 +58,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request to the original project.
-
-Replace "Project Name," "Brief description," and other placeholders with your actual project details. Additionally, you may want to specify the license you intend to use and provide a link to the license file.
-
-Remember that a README should provide users with an overview of your project, how to get started, and any other relevant information. Feel free to tailor the README to suit your project's specific needs.
-
-```
-
-```
